@@ -19,7 +19,7 @@ leap_year=[2012,2016]
 article_links=[]
 n=0
 
-while checks < 40543:
+while checks < 43449:
    
     url="https://timesofindia.indiatimes.com/"+str(year)+"/"+str(month)+"/"+str(day)+"/archivelist/year-"+str(year)+",month-"+str(month)+",starttime-"+str(checks)+".cms"
     
