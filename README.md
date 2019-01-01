@@ -19,7 +19,7 @@
 5-Spacy (for extracting places names from the articles)
 
 <h2>How to use the repo</h2>
-1. Firstly run news_articles_url_scrapper.py. It will scrap all the articles from a given date to another and will dump all the urls in a CSV file named all_articles.csv<br>
-2. Then run hiv_article_dataset_creator.py. It will scrap all the HIV articles from the all_articles.csv fille and a create hiv_report_data.xlsx file containing columns Year,Heading and Content of the HIV article.<br>
-3. Running the Classifier.ipynb will classifiy the HIV articles on the above given categories.<br>
+1. Firstly run news_articles_url_scrapper.py. It will scrap all the articles from a given date to another and will dump all the urls in a CSV file named all_articles.csv<br><br>
+2. Then run hiv_article_dataset_creator.py. It will scrap all the HIV articles from the all_articles.csv fille and a create hiv_report_data.xlsx file containing columns Year,Heading and Content of the HIV article.<br><br>
+3. Running the Classifier.ipynb will classifiy the HIV articles on the above given categories.<br><br>
 4. Run visualization.py if you want to get the visualized report on (death cases,suicide cases,matrimony related articles and the places mentioned in surge/epidimic  category).
