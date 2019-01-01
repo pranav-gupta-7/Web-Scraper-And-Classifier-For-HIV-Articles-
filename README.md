@@ -15,5 +15,7 @@
 1-Python<br>
 2-NLTK<br>
 3-Keras<br>
-4-Spacy (for extracting places names from the articles)<br>  
-5-Matplotlib (for visualization)<br>  
+4-Matplotlib (for visualization)<br>
+5-Spacy (for extracting places names from the articles)
+
+
