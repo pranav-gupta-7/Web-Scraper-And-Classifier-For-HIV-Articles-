@@ -1,6 +1,6 @@
 # Web-Scraper-And-Classifier-For-HIV-Articles
 
-<h2>Categories used for classification-<h2><br>
+# Categories used for classification-<br>
 1- Support/Facilitation/Awareness<br>
 2- Research/Development/Biomedical Improvement<br>
 3- Society Discrimination/Negative Impact<br>
@@ -11,9 +11,9 @@
 8- Suicide Cases<br>
 0- other<br><br>
   
-<h2>Dependencies used-<h2><br>
+# Dependencies used-<br>
 1-Python<br>
 2-NLTK<br>
 3-Keras<br>
-4-Spacy<br>  
+4-Spacy (for extracting places names from the articles)<br>  
 5-Matplotlib (for visualization)<br>  
