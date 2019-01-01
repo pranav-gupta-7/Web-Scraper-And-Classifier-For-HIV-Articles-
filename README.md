@@ -1,6 +1,6 @@
 # Web-Scraper-And-Classifier-For-HIV-Articles
 
-<h2>Categories used for classification</h2>-<br>
+<h2>Categories used for classification-</h2>
 1- Support/Facilitation/Awareness<br>
 2- Research/Development/Biomedical Improvement<br>
 3- Society Discrimination/Negative Impact<br>
@@ -11,7 +11,7 @@
 8- Suicide Cases<br>
 0- other<br><br>
   
-<h2>Dependencies used-</h2><br>
+<h2>Dependencies used-</h2>
 1-Python<br>
 2-NLTK<br>
 3-Keras<br>
