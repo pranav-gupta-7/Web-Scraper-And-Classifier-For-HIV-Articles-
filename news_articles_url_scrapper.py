@@ -70,7 +70,7 @@ while checks < 43449:
     checks=checks+1    
  
 # Saving to local machine     
-with open('new'+str(year)+'.csv','w') as file:
+with open('all_articles.csv','w') as file:
          csv_output=csv.writer(file,quoting=csv.QUOTE_ALL,delimiter='\n')
          csv_output.writerow(article_links)    
 
