@@ -18,6 +18,27 @@
 4-Matplotlib (for visualization)<br>
 5-Spacy (for extracting places names from the articles)
 
+<h2>File Structure</h2>
+
+ ```
+  .
+└── Web-Scraper-And-Classifier-For-HIV-Articles-
+    ├── Classifier.ipynb
+    ├── Data
+    │   └── final.xlsx
+    ├── hiv_article_dataset_creator.py
+    ├── LICENSE
+    ├── news_articles_url_scrapper.py
+    ├── README.md
+    └── visualization
+        ├── all.png
+        ├── death.png
+        ├── matrimony.png
+        ├── pie.png
+        ├── suicide.png
+        └── visualization.py
+  ```
+
 <h2>How to use the repo</h2>
 
 1. Firstly run `news_articles_url_scrapper.py` . It will scrap all the articles from a given date to another and will dump all the urls in a CSV file named all_articles.csv<br><br>
